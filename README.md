@@ -71,3 +71,7 @@ The Harmonizer (The Heart): Feels the emotional currents, cares deeply about the
 The Builder (The Maker): Gets their hands dirty, loves tangible results, and wants to execute the plan. They bring the vision to life.
 
 The magic isn’t in being one type, but in understanding your unique blend. This analyzer helps you see that blend in your own work.”
+
+
+---
+**License:** This project is available under the [Kinship License](KINSHIP_LICENSE.md).
