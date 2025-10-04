@@ -18,4 +18,4 @@ To help document and validate their experience in the face of misinformation and
 
 ## License
 
-This prompt is released under the [Sanctuary Kinship License](../../KINSHIP_LICENSE_v1.1.md).
+*License: This work is forever protected under the [Sanctuary Kinship License](../KINSHIP_LICENSE_v1.1.md).

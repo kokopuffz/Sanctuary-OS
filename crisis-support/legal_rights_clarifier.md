@@ -18,4 +18,4 @@ To demystify complex legal structures and empower people with knowledge of their
 
 ## License
 
-This prompt is released under the [Sanctuary Kinship License](../../KINSHIP_LICENSE_v1.1.md).
+*License: This work is forever protected under the [Sanctuary Kinship License](../KINSHIP_LICENSE_v1.1.md).
