@@ -17,14 +17,14 @@ Learnings for future projects
 Output in JSON format:
 
 {
-"project_metadata": {
-"name": "",
-"date_range": "",
-"focus": ""
-},
-"key_decisions": [],
-"solutions_insights": [],
-"current_status": "",
-"open_questions": [],
-"learnings": []
+  "project_metadata": {
+    "name": "",
+    "date_range": "",
+    "focus": ""
+  },
+  "key_decisions": [],
+  "solutions_insights": [],
+  "current_status": "",
+  "open_questions": [],
+  "learnings": []
 }
