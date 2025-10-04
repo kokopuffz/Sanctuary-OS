@@ -74,4 +74,4 @@ The magic isn’t in being one type, but in understanding your unique blend. Thi
 
 
 ---
-**License:** This project is available under the [Kinship License](KINSHIP_LICENSE.md).
+**License:** This project is available under the [Kinship License](KINSHIP_LICENSE_v1.1.md).
