@@ -61,3 +61,10 @@ IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM OR DAMAGES CONNECTED WITH 
 4.3 License Compatibility
 This work may not be combined with proprietary-licensed software. Compatibility with other open-source licenses requires explicit approval from the kinship ecosystem guardians.
 
+
+
+SPECIAL PROVISIONS FOR HUMANITARIAN WORKS:
+- These tools must remain accessible to vulnerable populations
+- Translation and localization are explicitly encouraged
+- Humanitarian organizations may distribute with attribution
+- Any use that exploits vulnerable people terminates all rights

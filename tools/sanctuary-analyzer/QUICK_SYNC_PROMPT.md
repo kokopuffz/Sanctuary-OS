@@ -28,3 +28,8 @@ Output in JSON format:
   "open_questions": [],
   "learnings": []
 }
+
+
+## License
+
+This prompt is released under the [Sanctuary Kinship License](../../KINSHIP_LICENSE_v1.1.md).

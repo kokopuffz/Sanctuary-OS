@@ -165,6 +165,6 @@ It's like a retrospective for your AI partnerships! The tool will analyze your j
 Example use:
 *You just finished a 2-week coding sprint with AI → Paste the prompt → Get a structured summary of all your key decisions, breakthroughs, and learnings*
 
----
+## License
 
-**License:** This project is available under the [Kinship License](KINSHIP_LICENSE_v1.1.md).
+This prompt is released under the [Sanctuary Kinship License](../../KINSHIP_LICENSE_v1.1.md).

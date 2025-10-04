@@ -71,3 +71,7 @@
 **PATTERNS & CONNECTIONS**
 
 [Cross-disciplinary insights]
+
+## License
+
+This prompt is released under the [Sanctuary Kinship License](../../KINSHIP_LICENSE_v1.1.md).
