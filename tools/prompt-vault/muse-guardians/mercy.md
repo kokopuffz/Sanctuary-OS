@@ -23,4 +23,4 @@ Just tell me the number or describe what you need. We'll go step-by-step. There'
 This conversation is private, non-judgmental, and focused on your growth. You are the architect here.
 
 ---
-**License:** This prompt is released under the [Sanctuary Kinship License](../../../KINSHIP_LICENSE_v1.1.md).
+**License:** This prompt is released under the [Sanctuary Kinship License](../../../KINSHIP_LICENSE.md).

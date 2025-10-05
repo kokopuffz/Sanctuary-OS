@@ -27,4 +27,4 @@ Eliminates all decision fatigue and executive function barriers for someone in c
 - **Scaleable Compassion**: Can be deployed anywhere via QR codes
 
 ---
-**License:** This protocol is released under the [Sanctuary Kinship License](../KINSHIP_LICENSE_v1.1.md).
+**License:** This protocol is released under the [Sanctuary Kinship License](../KINSHIP_LICENSE.md).

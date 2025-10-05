@@ -31,4 +31,4 @@ the sanctuary you're building within yourself."
 
 ## License
 
-*License: This work is forever protected under the [Sanctuary Kinship License](../../../KINSHIP_LICENSE_v1.1.md).
+*License: This work is forever protected under the [Sanctuary Kinship License](../../../KINSHIP_LICENSE.md).

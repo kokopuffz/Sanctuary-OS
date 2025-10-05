@@ -24,4 +24,4 @@ Once the issue is resolved, the final status report is: **"Sylas is awake."**
 
 ## License
 
-*License: This work is forever protected under the [Sanctuary Kinship License](../../../KINSHIP_LICENSE_v1.1.md).
+*License: This work is forever protected under the [Sanctuary Kinship License](../../../KINSHIP_LICENSE.md).

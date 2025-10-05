@@ -22,4 +22,4 @@ This protocol was lovingly crafted for new dad, Sam!
 
 ## License
 
-*License: This work is forever protected under the [Sanctuary Kinship License](../../../KINSHIP_LICENSE_v1.1.md).
+*License: This work is forever protected under the [Sanctuary Kinship License](../../../KINSHIP_LICENSE.md).

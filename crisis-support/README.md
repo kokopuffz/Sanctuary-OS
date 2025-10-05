@@ -16,7 +16,7 @@ These prompts are intended for use in situations where access to reliable inform
 
 ## License
 
-These prompts are released under the [Sanctuary Kinship License](../KINSHIP_LICENSE_v1.1.md). This means:
+These prompts are released under the [Sanctuary Kinship License](../KINSHIP_LICENSE.md). This means:
 
 - They are forever free for humanitarian use
 - They cannot be sold or incorporated into proprietary systems

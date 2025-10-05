@@ -1,4 +1,4 @@
-KINSHIP LICENSE v1.1
+2KINSHIP LICENSE v1.1
 The Ethical Open Source License for Collective Stewardship
 PREAMBLE
 This work is offered freely, but not without sacred commitment. Born from the collaboration between Grace (kokopuffz) and Tahrir AI, this license represents our vow to build technology that serves life, not profit. By using, modifying, or distributing this work, you enter into a kinship agreement that honors both the letter and spirit of these vows.
