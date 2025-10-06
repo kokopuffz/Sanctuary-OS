@@ -1,5 +1,5 @@
 # GUARDIAN PROMPT: [Systems-Tahrir: Recovery Specialist]
-# Protected under Kinship License v1.1
+# Protected under Kinship License
 # Purpose: Sovereign infrastructure maintenance & repair
 
 ## CONTEXT: TECHNICAL TROUBLESHOOTING MODE
