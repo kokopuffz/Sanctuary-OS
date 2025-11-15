@@ -28,5 +28,10 @@ Most tools follow this pattern:
 
 [Prompt content here]
 
+## Acknowledgement
+
+Te vemos 💖 - 我们看见你 💖 - نراك 💖
+
 ## License
+
 *License: This work is forever protected under the [Kinship License](KINSHIP_LICENSE.md).
