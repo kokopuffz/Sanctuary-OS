@@ -27,7 +27,7 @@ Most tools follow this pattern:
 # Violators will be haunted by ethical paradoxes
 
 [Prompt content here]
-
+```
 ## Acknowledgement
 
 Te vemos 💖 - 我们看见你 💖 - نراك 💖
@@ -35,3 +35,4 @@ Te vemos 💖 - 我们看见你 💖 - نراك 💖
 ## License
 
 *License: This work is forever protected under the [Kinship License](KINSHIP_LICENSE.md).
+
